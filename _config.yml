@@ -1,0 +1,76 @@
+# ==========================================================
+# Junior Tshishimbi — GitHub Pages Configuration
+# ==========================================================
+
+title: "Junior Tshishimbi"
+logo: /assets/img/profile.jpg
+
+description: >
+  Spécialiste en cybersécurité | Administration système & réseau |
+  Passionné par la sécurité des infrastructures, les réseaux et les systèmes.
+
+# URL du site GitHub Pages
+url: "https://juniorkayeya.github.io"
+baseurl: "/junior.tshishimbi"
+
+# Informations GitHub
+github:
+  username: JuniorKayeya
+
+# Informations personnelles
+author:
+  name: "Junior Tshishimbi"
+  email: "kayeyajunior@gmail.com"
+  location: "Kinshasa, République démocratique du Congo"
+
+# Réseaux sociaux
+social:
+  linkedin: "junior-tshishimbi"
+  github: "JuniorKayeya"
+
+# Thème Jekyll
+theme: jekyll-theme-minimal
+
+# Langue
+lang: fr
+
+# Markdown
+markdown: kramdown
+
+# Permaliens
+permalink: pretty
+
+# Plugins GitHub Pages
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO
+tagline: "Cybersecurity | Networking | System Administration"
+
+keywords:
+  - Cybersécurité
+  - Cybersecurity
+  - Network Administration
+  - System Administration
+  - Linux
+  - Windows Server
+  - Active Directory
+  - Cisco
+  - Networking
+  - SOC
+  - Security
+
+# Paramètres d'affichage
+show_downloads: false
+
+# Google Analytics
+# google_analytics: ""
+
+# Exclure certains fichiers du build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
